@@ -1,4 +1,4 @@
-## *Oi eu sou o Stênio*
+## *Iniciando meus estudos em Java*
 
 ![img.png](img.png)
 
